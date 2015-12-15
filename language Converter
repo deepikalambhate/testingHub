@@ -1,5 +1,8 @@
 <?php
 //english language
+
+
+123123123
 //view_contact.php
 
 $lang["Contact us"] = "Contact us";
